@@ -2,7 +2,6 @@
 # cashlog
 This is a project of mobile programming for expense tracker simple application. Develop with &lt;3 by CodeBlue team
 =======
-# flutter_application_1
 
 A new Flutter project.
 
